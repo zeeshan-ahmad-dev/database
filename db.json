@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "id": "6926",
+      "name": "Zeeshan",
+      "email": "zegeta@gmail.com",
+      "password": "zeeshan-h"
+    },
+    {
+      "id": "b3c4",
+      "name": "Vegeta",
+      "email": "vegeta123@gmail.com",
+      "password": "prince vegeta"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "f804",
+      "name": "Pizza hut",
+      "address": "Pakistan,Nowshera, colony no.2",
+      "contact": "03942953"
+    },
+    {
+      "id": "cae9",
+      "name": "Janat Resto",
+      "address": "Sadar bazar",
+      "contact": "0309583903"
+    },
+    {
+      "name": "Sushi World",
+      "address": "456 Oak Avenue, Metropolis",
+      "contact": "987-654-3210",
+      "id": "8edf"
+    },
+    {
+      "name": "Ahmad Restaurant",
+      "address": "Sadar bazar",
+      "contact": "42334",
+      "id": "b9e3"
+    },
+    {
+      "name": "Burger Haven",
+      "address": "101 Maple Drive, Star City",
+      "contact": "555-987-6543",
+      "id": "c805"
+    },
+    {
+      "id": "4f02",
+      "name": "Zeeshan Ahmad",
+      "address": "Germany",
+      "contact": "9204235"
+    },
+    {
+      "id": "1eb1",
+      "name": "Subway",
+      "address": "Bangalore sector 11",
+      "contact": "555"
+    },
+    {
+      "id": "b0fd",
+      "name": "Pizza Hut",
+      "address": "Gurgaon sector 45",
+      "contact": "444"
+    }
+  ]
+}
